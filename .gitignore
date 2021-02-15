@@ -6,3 +6,6 @@ ex04/.btree_insert_data.c.swp
 ex05/.btree_search_item.c.swp
 ex06/.btree_level_count.c.swp
 ex07/.btree_apply_by_level.c.swp
+**/main.c
+**/a.out
+**/ft_btree.h.gch
