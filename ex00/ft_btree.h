@@ -6,12 +6,14 @@
 /*   By: manuel <mlrcbsousa@gmail.com>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/02/15 22:11:54 by manuel            #+#    #+#             */
-/*   Updated: 2021/02/15 22:14:07 by manuel           ###   ########.fr       */
+/*   Updated: 2021/02/16 00:20:42 by manuel           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef FT_BTREE_H
 # define FT_BTREE_H
+
+# include <stdlib.h>
 
 typedef struct s_btree
 {
