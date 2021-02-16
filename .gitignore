@@ -9,3 +9,4 @@ ex07/.btree_apply_by_level.c.swp
 **/main.c
 **/a.out
 **/ft_btree.h.gch
+ex01/btree_create_node.c
