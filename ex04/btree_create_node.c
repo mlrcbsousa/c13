@@ -6,7 +6,7 @@
 /*   By: manuel <mlrcbsousa@gmail.com>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/02/15 23:51:35 by manuel            #+#    #+#             */
-/*   Updated: 2021/02/17 00:17:38 by manuel           ###   ########.fr       */
+/*   Updated: 2021/02/17 23:03:19 by manuel           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,7 +14,7 @@
 
 t_btree	*btree_create_node(void *item)
 {
-	t_btree *elem;
+	t_btree	*elem;
 
 	elem = (t_btree *)malloc(sizeof(t_btree));
 	elem->right = 0;
